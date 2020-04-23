@@ -24,9 +24,14 @@ namespace Test001
             {
                 Console.Write("-");
             }
-            //*** Zentrieren fehlt
-
+            //*** Zentrieren funktioniert mit hervorragendem Algorithmus!
+            for (int i = 0; i < (Console.WindowWidth-titel.Length)/2; i++)
+            {
+                Console.Write(" ");
+            }
+            Console.WriteLine(titel);
+            Console.ReadKey();
         }
-
+        
     }
 }
