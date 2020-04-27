@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//** Umrechnung zwischen verschiedenen Zahlensystemen
+//** Umrechnung zwischen verschiedenen Zahlensystemen (2)
 namespace Test001
 {
     class Program
